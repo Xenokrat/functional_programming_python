@@ -1,2 +1,1 @@
-# functional_programming_python
-Introduction for Functional Programming on Python
+# Introduction for Functional Programming on Python
